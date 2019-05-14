@@ -1043,3 +1043,8 @@
     height: auto;
     width: 100%;
   }
+
+  .ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
